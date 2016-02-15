@@ -4,7 +4,7 @@
 David Perez-Suarez
 
 ## Backup administrator
-Stuart Mumford, Matthew, Erik, Tom
+Stuart Mumford, Matthew Turk, Tom Aldcroft, Kyle Barbary, Erik(?)
 
 ## Organization ID
 openastronomy
@@ -12,7 +12,45 @@ openastronomy
 ## Organization name
 OpenAstronomy
 
-## Organization description OpenAstronomy is a collaboration between open source
+## Public Profile
+
+### Website URl
+http://openastronomy.org/
+
+### Tagline
+
+*A very short description*
+
+### Logo
+http://openastronomy.github.io/img/logo/logoOA_svg.png
+
+### Primary Open Source License
+BSD 3-Clause "New" or "Revised" License (BSD-3-clause)
+(MIT for astrojulia)
+
+### Organization Category
+Science and Medicine
+
+###Technology Tags
+python, julia, c, numpy
+
+### Topic tags
+science, solar physics, astronomy, visualisation, atomic physics
+
+### Ideas List
+http://openastronomy.org/gsoc/gsoc2016/ideas.html
+
+## Organization description 
+
+*These descriptions will be displayed on the
+organization list page (Short Description) and on your organization's page (Long
+Description). More details. The Long Description may include limited Markdown.*
+
+### short (180)
+
+### long (2000)
+
+OpenAstronomy is a collaboration between open source
 astronomy and astrophysics projects. It currently includes the following
 projects: Astropy, SunPy, yt and ChiantiPy. 
 The range of topics covered by these projects is wide: Astropy is a general
@@ -30,39 +68,39 @@ As a single organisation, we aim to strengthen collaborations
 between the different sub-organisations, and at the same time increase the
 awareness among our users on the capabilities of our "sister" projects.
 
-## Tags
-python, science, solar physics, astronomy, visualisation, atomic physics
+## Proposals
+*Guidance for students on how to apply to your organization. Should include any prerequisites or requirements. You may wish to include a template or tips for their proposals. May include limited Markdown.*
 
-## Main organization license
-New and Simplified BSD licenses
 
-## Logo URL
-http://openastronomy.github.io/img/logo/logoOA_svg.png
 
-## Ideas list
-https://openastronomy.github.io/gsoc2015/ideas.html 
+### Proposal Tags
+*Enter tags that students can select (one) from and apply to their own proposals to help organize them. Examples: New Feature, Optimization. You can also use these to designate "sub-organizations" if you are an umbrella organization.*
 
-## Mailing list
-https://groups.google.com/forum/#!forum/openastronomy 
+sunpy, astropy, chiantipy, yt, julia astropy
 
-## Organization home page url
-http://openastronomy.github.io 
+## Contact methods
 
 ## IRC channel
+
 openastronomy.github.io as they ask for a website where irc connections is described.
 ```#openastronomy``` on Freenode
 
-## Feed URL
+## Mailing list
 
-## Google+ URL
+https://groups.google.com/forum/#!forum/openastronomy 
 
-## Twitter URL
+### General Email
 
-## Blog page
+openastronomy.organization@gmail.com
 
-## Facebook URL
+## Links
+### Google+
+N/A
 
-## Veteran/New
-Veteran -- I put New (as an organisation is our first time)
+### Twitter
+https://twitter.com/Open_Astronomy
+
+### Blog
+http://openastronomy.org/blog.html
 
 
