@@ -4,7 +4,7 @@
 David Perez-Suarez
 
 ## Backup administrator
-Stuart Mumford, Matthew Turk, Tom Aldcroft, Kyle Barbary, Erik(?)
+Stuart Mumford, Matthew Turk, Tom Aldcroft, Kyle Barbary
 
 ## Organization ID
 openastronomy
