@@ -53,7 +53,7 @@ something that will make others to want to mentor in the future/
 
 ## How will you help your students stay on schedule to complete their projects?
 
-The students are asked to keep a blog up to date with their progress.
+The students are asked to keep a blog up to date with their progress and email weekly status reports to the mentors in scrum format.
 With the help of the mentors and guided by the timeline in their application,
 students will be expected to set milestones and make them publicly available
 (along with their blog).
