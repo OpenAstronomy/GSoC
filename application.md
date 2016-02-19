@@ -152,9 +152,8 @@ The organizations under the umbrella were created at different times: the yt
 project in 2007, ChiantiPy in 2010, SunPy and Astropy in 2011 and finally Julia
 Astro in 2012.
 
-Since 2013 SunPy and Astropy have been participating on GSoC under the Python
-Software Foundation umbrella. David Perez-Suarez and Stuart Mumford for SunPy
-along with Erik Tollerud and Thomas Robitaille for Astropy, have been
+SunPy and Astropy have been participating on GSoC under the Python
+Software Foundation umbrella. David PS., Stuart M., Erik T. and Thomas R. have been
 sub-organizations admins since 2013.
 
-[585/500]
+[495/500]
