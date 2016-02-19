@@ -3,14 +3,13 @@
 ## Why does your org want to participate in Google Summer of Code?
 
 OpenAstronomy would like to be a part of Google Summer of Code to reach a new
-pool of contributors, develop our communities, and help the member projects
-collaborate better.
-Some of our member projects' past experience with GSoC shows that it provides a
-boost to areas which are in need of intensive attention, as well as adding
-members to the community who can turn out to be valuable long-lasting
-contributors.
-We would like to help bring these experiences to a wider variety of projects, all
-united by the goal of fostering open source development of astronomy software.
+pool of contributors, develop our communities, and help collaboration between
+the member projects. Some of our member projects' past experience with GSoC
+shows that it provides a boost to areas which are in need of intensive
+attention, as well as adding members to the community who can turn out to be
+valuable long-lasting contributors. We would like to help bring these
+experiences to a wider variety of projects, all united by the goal of fostering
+open source development of astronomy software.
 
 As an umbrella organization with an astronomy focus, we will be able to include
 diverse projects (not only Python-based) and accept students with experience
@@ -18,7 +17,7 @@ with different languages, while uniting projects with the common goal of
 providing tools for the scientific exploration of the Universe.
 
 
-[869/1000]
+[872/1000]
 
 ## How many potential mentors have agreed to mentor this year?
 
@@ -41,9 +40,10 @@ Making visible to the community not just the work of the students (which they
 will able to follow through the required public blog posts) but who are the
 mentors behind thee projects.
 
-Mentors will monitor their students as they prefer but they will have dedicate
+Mentors will monitor their students as they prefer but they will have dedicated
 time on each sub-organisation weekly teleconferences to discuss their
-development and update the progress and problems encountered.
+development and update the admins and other mentors on progress and problems
+encountered.
 
 
 [661/1000]
@@ -140,7 +140,7 @@ Yes
 
 ### which one?
 
-OpenAstronomy ias a whole is not, but Astropy is under NumFOCUS
+OpenAstronomy as a whole is not, but Astropy is under NumFOCUS
 
 ## What year was your project started?
 
@@ -151,13 +151,13 @@ OpenAstronomy ias a whole is not, but Astropy is under NumFOCUS
 OpenAstronomy started in 2015 as an umbrella organization for GSoC and to
 coordinate other activities such as workshops and tutorials.
 
-The organizations under the umbrella were created at different times:
-Yt-project started in 2007, ChiantiPy did in 2010, SunPy and Astropy followed in
-2011 and Julia Astro in 2012.
+The organizations under the umbrella were created at different times: the yt
+project in 2007, ChiantiPy in 2010, SunPy and Astropy in 2011 and finally Julia
+Astro in 2012.
 
 Since 2013 SunPy and Astropy have been participating on GSoC under the Python
-Software Foundation umbrella.
-David Perez-Suarez and Stuart Mumford for SunPy, and Erik Tollerud for Astropy,
-have helped organize the GSoC participation since 2013.
+Software Foundation umbrella. David Perez-Suarez and Stuart Mumford for SunPy
+along with Erik Tollerud and Thomas Robitaille for Astropy, have been
+sub-organizations admins since 2013.
 
-[706/500]
+[585/500]
