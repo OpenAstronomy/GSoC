@@ -106,13 +106,11 @@ participations in GSoC and the ESA Summer of Code programmes.
 
 ## How will you keep students involved with your community after GSoC?
 
-Because the OpenAstronomy projects are generally community-developed projects,
-we take special care to involve all new people with our communities as much as
-we can.
-This applies as much to GSoC students as anyone else in our communities.
-We hope to convince them of the attractiveness and usability that our projects have
-for the long term.
-Because many solar and astrophysicists are new to Python, we will invite the
+Because the OpenAstronomy projects are community-developed projects,
+we take special care to welcome all new people to our communities.
+This applies as much to GSoC students as any other new member.
+
+As many solar and astrophysicists are new to Python, we will invite the
 students to give tutorials about their contribution to astronomy and
 astrophysics institutes near their home location.
 This will help the students get a better understanding of the needs of the
@@ -120,15 +118,14 @@ community and to get closer to the users and the field.
 This may provide the student a big push in their career, and open new doors in
 the astronomical research world.
 Furthermore, many of the students involved in past GSoCs with Sunpy and Astropy
-have gone on to be valuable contributors to the projects.
+have gone on to be valuable long term contributors.
 
-To further encourage students, we will follow the example set by other GSoC
-projects (such as SymPy) and ask the students to spend a small fraction of their
-time reviewing others’ pull requests.
-We will ask them to help review one pull request per week, which should be no
-more than a 5% time commitment.
+To further integrate students into their projects, we will ask the students to
+spend a small fraction of their time reviewing others’ pull requests. We will
+ask them to help review one pull request per week.
 
-[1221/1000]
+
+[975/1000]
 
 ## Has your org been accepted as a mentoring org in Google Summer of Code before?
 
