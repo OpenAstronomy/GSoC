@@ -58,7 +58,7 @@ Astropy, SunPy, yt, ChiantiPy and  astrojulia projects.
 
 OpenAstronomy is a collaboration between open source
 astronomy and astrophysics projects. It currently includes the following
-projects: Astropy, SunPy, yt, ChiantiPy and  astro julia. 
+projects: Astropy, SunPy, yt, ChiantiPy and  Julia Astro. 
 The range of topics covered by these projects is wide: Astropy is a general
 library for astronomy, providing common tools such as celestial coordinates,
 image processing, tabular data reading and writing, units and support for
@@ -70,9 +70,13 @@ The yt project is a Python package for analyzing and visualizing volumetric,
 multi-resolution data. ChiantiPy is a Python interface to the CHIANTI atomic
 database, which allows users to characterise the properties (temperature,
 density, velocity) of observed stars from spectra.
+JuliaAstro is an organization that coordinates the development of common
+astronomy packages for Julia.
+(These libraries are similar in scope to Astropy and often share underlying C
+implementations.)
 As a single organisation, we aim to strengthen collaborations
 between the different sub-organisations, and at the same time increase the
-awareness among our users on the capabilities of our "sister" projects.
+awareness among our users of the capabilities of our "sister" projects.
 
 ## Proposals
 *Guidance for students on how to apply to your organization. Should include any prerequisites or requirements. You may wish to include a template or tips for their proposals. May include limited Markdown.*
@@ -85,8 +89,8 @@ application deadline (25th of March 2016):
 
 1. Introduce yourself in the mailing list (or IRC channel) of the organisation
    you want to work with.
-2. Create a blog and write something about the project you are interested. You
-   will be require to keep an update of your progress in there (at least one post
+2. Create a blog and write something about the project you are interested in. You
+   will be required to keep an update of your progress in there (at least one post
    every 2 weeks).
 3. Contribute at least one patch to the organisation you are applying for. This
    will show that you have been able to set up the developer environment. Check the
@@ -140,7 +144,7 @@ Holidays plans, expected working hours, ...
 ### Proposal Tags
 *Enter tags that students can select (one) from and apply to their own proposals to help organize them. Examples: New Feature, Optimization. You can also use these to designate "sub-organizations" if you are an umbrella organization.*
 
-sunpy, astropy, chiantipy, yt, julia astropy
+sunpy, astropy, chiantipy, yt, julia astro
 
 ## Contact methods
 
