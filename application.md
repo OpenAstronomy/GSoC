@@ -9,7 +9,7 @@ Some of our member projects' past experience with GSoC shows that it provides a
 boost to areas which are in need of intensive attention, as well as adding
 members to the community who can turn out to be valuable long-lasting
 contributors.
-We would like to help bring these experience to a wider variety of projects, all
+We would like to help bring these experiences to a wider variety of projects, all
 united by the goal of fostering open source development of astronomy software.
 
 We are submitting this application together in order to strengthen collaboration
@@ -48,7 +48,7 @@ These are therefore 'core' developers that understand the code base very well.
 They must also be in a position to dedicate enough time to properly mentor GSoC
 students.
 A number of the mentors have been GSoC mentors in all the editions since 2013.
-How will you keep mentors engaged with their students? Each sub-organisation has
+Each sub-organisation has
 weekly teleconferences to discuss their development, in these calls they will
 dedicate a time for the GSoC mentors and students to update the progress and
 problems encountered.
@@ -64,11 +64,11 @@ The students are asked to keep a blog up to date with their progress.
 With the help of the mentors and guided by the timeline in their application,
 students will be expected to set milestones and make them publicly available
 (along with their blog).
-All the projects will have at least one experienced mentor which will 
-know how to handle problems or delays and help the students how to 
+All the projects will have at least one experienced mentor who will 
+know how to handle problems or delays and help the students to 
 identify the causes that may be dragging them behind.
 The organisation admins will keep a close eye on the projects with inexperienced
-mentors to be able to help before to late.
+mentors to be able to help before too late.
 The admins will also monitor the progress of all the students based on weekly
 updates from the mentors via a tracking system.
 If despite intervention they find the students have fallen behind on multiple
@@ -123,7 +123,7 @@ Because the OpenAstronomy projects are generally community-developed projects,
 we take special care to involve all new people with our communities as much as
 we can.
 This applies as much to GSoC students as anyone else in our communities.
-We hope to convince them of the attractive and usability that our projects have
+We hope to convince them of the attractiveness and usability that our projects have
 for the long term.
 Because many solar and astrophysicists are new to Python, we will invite the
 students to give tutorials about their contribution to astronomy and
@@ -162,17 +162,15 @@ OpenAstronomy ias a whole is not, but Astropy is under NumFOCUS
 ## Anything else
 
 OpenAstronomy started in 2015 as an umbrella organization for GSoC and to
-coordinate other activities as workshops and tutorials.
+coordinate other activities such as workshops and tutorials.
 
-The organizations under the umbrella has been created at different times:
+The organizations under the umbrella were created at different times:
 Yt-project started in 2007, ChiantiPy did in 2010, SunPy and Astropy followed in
 2011 and Julia Astro in 2012.
 
-Since 2013 SunPy and Astropy has been participating on GSoC under the Python
-Software Foundation umbrella, yt-project has also participated in 2015 under
-NumFOCUS.
+Since 2013 SunPy and Astropy have been participating on GSoC under the Python
+Software Foundation umbrella.
 David Perez-Suarez and Stuart Mumford for SunPy, and Erik Tollerud for Astropy,
-have helped organize the GSoC participation since 2013. Matthew Turk from
-yt-project has also participated in the organisation since last year.
- 
+have helped organize the GSoC participation since 2013.
+
 [706/500]
