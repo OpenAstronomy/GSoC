@@ -12,26 +12,20 @@ contributors.
 We would like to help bring these experiences to a wider variety of projects, all
 united by the goal of fostering open source development of astronomy software.
 
-We are submitting this application together in order to strengthen collaboration
-between the different projects, for example by offering project ideas that
-extend across multiple packages, in order to reduce duplication of efforts and
-strengthen interoperability.
-As an umbrella organization with an astronomy theme, we will be able to include
+As an umbrella organization with an astronomy focus, we will be able to include
 diverse projects (not only Python-based) and accept students with experience
 with different languages, while uniting projects with the common goal of
 providing tools for the scientific exploration of the Universe.
 
-By participating in GSoC as an umbrella, OpenAstronomy aims to improve the
-experience for both students and mentors alike, while reducing the
-administrative overhead.
 Both the SunPy and Astropy projects have participated in GSoC from 2013 to 2015
 under the Python Software Foundation umbrella organization, and the experience
-was highly successful for both organisations (a total of 12 students completed
-their projects during these years, many of them with exceptional performance).
-We hope that we can replicate and share this experience with other projects as
-part of the OpenAstronomy organization.
 
-[1826/1000]
+was highly successful (12 students completed their projects during these years,
+many of them with exceptional performance). We plan to replicate and
+share this experience with other projects as part of the OpenAstronomy
+organization.
+
+[1262/1000]
 
 ## How many potential mentors have agreed to mentor this year?
 
@@ -46,10 +40,9 @@ These are therefore 'core' developers that understand the code base very well.
 They must also be in a position to dedicate enough time to properly mentor GSoC
 students.
 A number of the mentors have been GSoC mentors in all the editions since 2013.
-Each sub-organisation has
-weekly teleconferences to discuss their development, in these calls they will
-dedicate a time for the GSoC mentors and students to update the progress and
-problems encountered.
+Each sub-organisation has weekly teleconferences to discuss their development,
+in these calls they will dedicate a time for the GSoC mentors and students to
+update the progress and problems encountered.
 
 [661/1000]
 
@@ -65,11 +58,11 @@ students will be expected to set milestones and make them publicly available
 All the projects will have at least one experienced mentor who will 
 know how to handle problems or delays and help the students to 
 identify the causes that may be dragging them behind.
-The organisation admins will keep a close eye on the projects with inexperienced
-mentors to be able to help before too late.
+The organisation admins will keep a close eye on the projects with less
+experienced mentors to resolve problems before they arise.
 The admins will also monitor the progress of all the students based on weekly
-updates from the mentors via a tracking system.
-If despite intervention they find the students have fallen behind on multiple
+updates from the mentors.
+If despite intervention we find the students have fallen behind on multiple
 milestones without specific allowable reasons, they will be warned of possible
 failure, in the hopes that this will put them more on track. 
 If this does not succeed, they will be failed.
@@ -78,42 +71,36 @@ If this does not succeed, they will be failed.
 
 ## How will you get your students involved in your community during GSoC?
 
-Working together with the community is a very important aspect for all of the
-sub-organisations under OpenAstronomy.
+Creating a community between different projects within Astronomy is the purpose
+of OpenAstronomy, and it is very important to us that our students participate
+in this community.
 We have created a page with guidelines [1] on what students can do to increase
 their chances to be accepted into the OpenAstronomy GSoC programme.
 To ensure students interact with our communities before their applications are
 submitted, one of the requirements of applications will be that students must
 submit at least one patch as part of their application, which will necessarily
 require that the students interact with the existing developer community.
-We will use this interaction to help determine how to help specific students get
-involved in the community as quickly and effectively as possible.
 Once we select students, we will require them to further discuss their project
 ideas with the community before the coding period starts in earnest.
 
-Each sub-organisation provides a number of communication channel to its users
-and developers.
-These include weekly Google hangouts, email lists, as well as an IRC chat room.
+Each sub-organisation has a number of communication channels, including Google
+hangouts, email lists, as well as an IRC channels.
 We will expect the students to make use of all of these channels during their
 projects.
 We will also make specific requirements for the students which include weekly
 meetings with their mentors as well as weekly blog posts on the OpenAstronomy
 site describing their progress.
-They will also be invited to participate in the creation of posters,
-presentations and/or tutorials to show in upcoming scientific conferences.
 Students (as all contributors) will be required to write up a user guide and
 full documentation for their contribution to be considered successful.
 All contributions by the students will be reviewed by the community through the
-GitHub and BitBucket comment and annotation pull request platform.
+GitHub and BitBucket pull request system.
 
-If the work done leads to a research publication, the student will be invited to
-collaborate in the preparation of the publication.
 These guidelines have already been successful applied as part of our previous
 participations in GSoC and the ESA Summer of Code programmes.
 
-[1] https://openastronomy.github.io/gsoc2015/student_guidelines.html
+[1] https://openastronomy.org/gsoc/student_guidelines.html
 
-[2102/1000]
+[1661/1000]
 
 ## How will you keep students involved with your community after GSoC?
 
