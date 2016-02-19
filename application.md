@@ -73,36 +73,22 @@ If this does not succeed, they will be failed.
 
 ## How will you get your students involved in your community during GSoC?
 
-Creating a community between different projects within Astronomy is the purpose
+Creating a community between different projects within astronomy is the purpose
 of OpenAstronomy, and it is very important to us that our students participate
-in this community.
-We have created a page with guidelines [1] on what students can do to increase
-their chances to be accepted into the OpenAstronomy GSoC programme.
-To ensure students interact with our communities before their applications are
-submitted, one of the requirements of applications will be that students must
-submit at least one patch as part of their application, which will necessarily
-require that the students interact with the existing developer community.
-Once we select students, we will require them to further discuss their project
-ideas with the community before the coding period starts in earnest.
-
-Each sub-organisation has a number of communication channels, including Google
-hangouts, email lists, as well as an IRC channels.
-We will expect the students to make use of all of these channels during their
-projects.
-We will also make specific requirements for the students which include weekly
-meetings with their mentors as well as weekly blog posts on the OpenAstronomy
-site describing their progress.
-Students (as all contributors) will be required to write up a user guide and
-full documentation for their contribution to be considered successful.
-All contributions by the students will be reviewed by the community through the
-GitHub and BitBucket pull request system.
+in this community. We have created a page with guidelines on what students
+can do to get involved with the OpenAstronomy community and increase their
+chances of their application being accepted. To ensure students interact with
+our communities before their applications are submitted, we will require that
+students submit at least one patch, which will involve the students interacting
+with the developer community. Students will also be required to participate in
+the various communication channels used by the various projects. Once we select
+students, we will require them to further discuss their project ideas with the
+community before the coding period starts.
 
 These guidelines have already been successful applied as part of our previous
-participations in GSoC and the ESA Summer of Code programmes.
+involvement in GSoC and the ESA Summer of Code programmes.
 
-[1] https://openastronomy.org/gsoc/student_guidelines.html
-
-[1661/1000]
+[964/1000]
 
 ## How will you keep students involved with your community after GSoC?
 
