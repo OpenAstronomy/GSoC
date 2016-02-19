@@ -123,7 +123,7 @@ Yes
 
 ### which one?
 
-OpenAstronomy as a whole is not, but Astropy is under NumFOCUS
+OpenAstronomy as a whole is not, but Astropy is a part of NumFOCUS.
 
 ## What year was your project started?
 
