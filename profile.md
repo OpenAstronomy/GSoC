@@ -98,7 +98,6 @@ application deadline (25th of March 2016):
 
 # Template
 ## Student Information
-## Student Information
 * **Name:** 
 * **Email:** 
 * **Time-zone:**
@@ -106,7 +105,7 @@ application deadline (25th of March 2016):
 * **Github/BitBucket:**
 * **Blog:** 
 * **Blog RSS feed:**
-* **PR link:**
+* **Pull Request link:**
 
 ## University Information
 * **University:**
@@ -135,8 +134,14 @@ application deadline (25th of March 2016):
 | ... | ...|
 | week n | ... |
 
+## GSoC
+
+### Have you participated previously in GSoC? when? with which project?
+
+### Are you also applying to other projects?
+
 ## Commitment
-Holidays plans, expected working hours, ...
+Holidays plans, expected working hours, ... 
 
 ## Other comments
 
@@ -150,6 +155,7 @@ sunpy, astropy, chiantipy, yt, julia astro
 
 ## IRC channel
 
+http://openastronomy.org/contact/
 openastronomy.github.io as they ask for a website where irc connections is described.
 ```#openastronomy``` on Freenode
 
