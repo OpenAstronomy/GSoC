@@ -28,8 +28,6 @@ Both the SunPy and Astropy projects have participated in GSoC from 2013 to 2015
 under the Python Software Foundation umbrella organization, and the experience
 was highly successful for both organisations (a total of 12 students completed
 their projects during these years, many of them with exceptional performance).
-Additionally the yt project participated last year under NumFocus with positive
-results. 
 We hope that we can replicate and share this experience with other projects as
 part of the OpenAstronomy organization.
 
