@@ -1,153 +1,145 @@
 # Questionnaire
 
-## If you did not choose "veteran" in the checkbox, have you applied in the past? If so, for what year(s)?
+## Why does your org want to participate in Google Summer of Code?
 
-This organisation is new and this is our first year applying as such, however,
-two of our sub-organisations (Astropy and SunPy) have participated in GSoC under
-the Python Software Foundation umbrella, both in 2013 and 2014.
+OpenAstronomy would like to be a part of Google Summer of Code to reach a new
+pool of contributors, develop our communities, and help collaboration between
+the member projects. Some of our member projects' past experience with GSoC
+shows that it provides a boost to areas which are in need of intensive
+attention, as well as adding members to the community who can turn out to be
+valuable long-lasting contributors. We would like to help bring these
+experiences to a wider variety of projects, all united by the goal of fostering
+open source development of astronomy software.
 
-## Why is your organization applying to participate in Google Summer of Code 2015? What do you hope to gain by participating?
+As an umbrella organization with an astronomy focus, we will be able to include
+diverse projects (not only Python-based) and accept students with experience
+with different languages, while uniting projects with the common goal of
+providing tools for the scientific exploration of the Universe.
 
-OpenAstronomy is a collection of projects united by a common goal to foster open
-source development of astronomy software. 
-We are submitting this application together in order to strengthen collaboration
-between the different projects, for example by offering project ideas that
-extend across multiple packages, in order to reduce duplication of efforts and
-strengthen interoperability. 
-As an umbrella organization separate from the Python Software Foundation, we
-will be able to include other projects that are not exclusively Python-based and
-accept students with experience with different languages, while uniting projects
-with the common goal of providing tools for the scientific exploration of the
-Universe.
 
-By participating in GSoC as a group, OpenAstronomy aims to improve the
-experience for both students and mentors alike, while reducing the
-administrative overhead. 
-Both the SunPy and Astropy projects have participated in GSoC in 2013 and 2014
-under the Python Software Foundation umbrella organization, and the experience
-was highly successful for both organisations (a total of 4 and 10 students
-completed their projects during the 2013 and 2014 programs, many of them with
-exceptional performance, and no students were failed). 
-We hope that we can replicate and share this experience with other projects as
-part of the OpenAstronomy organization.
+[872/1000]
 
-## How many potential mentors do you have for this year's program? What criteria did you use to select them?
+## How many potential mentors have agreed to mentor this year?
 
-We have 17 potential mentors for this year’s program (listed on our ideas page).
-In order to be selected as mentors, developers need to have made major code
+At the moment we have 26 potential mentors for this year’s program (listed on
+our ideas page).
+
+## How will you keep mentors engaged with their students?
+
+In order to be accepted as a mentor, developers need to have made major code
 contributions to their respective project, and be active contributors to date.
-These are therefore 'core' developers that understand the code base very well.
 They must also be in a position to dedicate enough time to properly mentor GSoC
-students. 
-A number of the mentors have been GSoC mentors in 2013 and 2014.
+students.
+Some of the potential mentors have been GSoC mentors since 2013. Therefore, they
+are deeply engaged with the sub-organisations.
 
-## What is your plan for dealing with disappearing students?
+When the selected students are announced, each suborganisation will
+email to their respective forums and post in their blogs an introduction to the
+students, their projects and their mentors.
+Making visible to the community not just the work of the students (which they
+will able to follow through the required public blog posts) but who are the
+mentors behind thee projects.
 
-Students are expected to be in regular contact with the mentors assigned and
-with the community via the project’s regular communication channels. 
-This include IRC, mail-list, or dev-Google+ hangouts. 
-The students will also be required to write blog posts on a regular basis on the
-OpenAstronomy site. 
-Additionally, the mentors and the student have to agree on a time to meet every
-week for at least one hour to discuss the evolution of the project. 
-The students are also expected to have their repositories on GitHub or BitBucket
-up to date, so the mentors and all community members can review the progress as
-it proceeds.
-
-If a student simply stops communicating, or otherwise does not show progress,
-the student will be explicitly warned that their project is in jeopardy via
-e-mail (if they have stopped communicating) or in the regular weekly meeting.
-If they still do not respond or return to making progress, the mentors and org
-admins will terminate the project and give the student a failing grade, unless
-the student has extenuating circumstances.
-Any code the student has developed up to that point will be present in the
-GitHub or BitBucket repositories, so that their project can be continued by
-project developers or a hypothetical future GSoC student.
+Mentors will monitor their students as they prefer but they will have dedicated
+time on each sub-organisation weekly teleconferences to discuss their
+development and update the admins and other mentors on progress and problems
+encountered.
 
 
-## What is your plan for dealing with disappearing mentors?
+[661/1000]
 
-All students will be assigned two mentors in case one of them becomes
-unavailable at any point. 
-We will also ensure that the students regularly interact with the main developer
-list and communicate with others on the project, so that in the unlikely case
-that both mentors become unavailable, other mentors and developers will be able
-to step in and help the student.
+/is that engaging enough? A Party or chocolates will have more effect,
+something that will make others to want to mentor in the future/
 
-In case either of the mentors have either a temporary or permanent conflict
-preventing them from completing their mentorship role, the sub-organisation’s
-administrator will be responsible for finding a new mentor. 
-The projects within the OpenAstronomy project are large enough that it will not
-be difficult to find another mentor that is familiar with the project.
+## How will you help your students stay on schedule to complete their projects?
 
-## What steps will you take to encourage students to interact with your project's community before and during the program?
+The students are asked to keep a blog up to date with their progress and email weekly status reports to the mentors in scrum format.
+With the help of the mentors and guided by the timeline in their application,
+students will be expected to set milestones and make them publicly available
+(along with their blog).
+All the projects will have at least one experienced mentor who will 
+know how to handle problems or delays and help the students to 
+identify the causes that may be dragging them behind.
+The organisation admins will keep a close eye on the projects with less
+experienced mentors to resolve problems before they arise.
+The admins will also monitor the progress of all the students based on weekly
+updates from the mentors.
+If despite intervention we find the students have fallen behind on multiple
+milestones without specific allowable reasons, they will be warned of possible
+failure, in the hopes that this will put them more on track. 
+If this does not succeed, they will be failed.
 
-Working together with the community is a very important aspect for all of the
-sub-organisations under OpenAstronomy. 
-We have created a page with guidelines [1] on what students can do to increase
-their chances to be accepted into the OpenAstronomy GSoC programme. 
-To ensure students interact with our communities before their applications are
-submitted, one of the requirements of applications will be that students must
-submit at least one patch as part of their application, which will necessarily
-require that the students interact with the existing developer community. 
-Once we select students, we will encourage them to further discuss their project
-ideas with the community before the coding period starts in earnest.
+[933/1000]
 
-Each sub-organisation provides a number of communication channel to its users
-and developers. 
-These include weekly Google hangouts, email lists, as well as an IRC chat room.
-We will expect the students to make use of all of these channels during their
-projects.
-We also will make specific requirements for the students which include
-weekly meetings with their mentors as well as weekly blog posts on the
-OpenAstronomy site describing their progress. 
-They will also be invited to participate in the creation of posters,
-presentations and/or tutorials to show in upcoming scientific conferences.
-Students (as all contributors) will be required to write up a user guide and
-full documentation for their contribution. 
-This will be reviewed by the community through the GitHub and BitBucket comment
-and annotation pull request platform.
+## How will you get your students involved in your community during GSoC?
 
-If the work done leads to a research publication, the student will be invited to
-collaborate in the preparation of the publication. 
+Creating a community between different projects within astronomy is the purpose
+of OpenAstronomy, and it is very important to us that our students participate
+in this community. We have created a page with guidelines on what students
+can do to get involved with the OpenAstronomy community and increase their
+chances of their application being accepted. To ensure students interact with
+our communities before their applications are submitted, we will require that
+students submit at least one patch, which will involve the students interacting
+with the developer community. Students will also be required to participate in
+the various communication channels used by the various projects. Once we select
+students, we will require them to further discuss their project ideas with the
+community before the coding period starts.
+
 These guidelines have already been successful applied as part of our previous
-participations in GSoC and the ESA Summer of Code programmes.
+involvement in GSoC and the ESA Summer of Code programmes.
 
-[1] https://openastronomy.github.io/gsoc2015/student_guidelines.html
+[964/1000]
 
-## What will you do to encourage your accepted students to stick with the project after Google Summer of Code concludes?
+## How will you keep students involved with your community after GSoC?
 
-We aim to involve all new people with our communities as much as we can. 
-GSoC students will be encouraged no less. 
-We hope to convince them of the attractive and usability that our projects have
-for the long term. 
-As many solar and astrophysicists are new to Python, we will invite the students
-to give tutorials about their contribution to astronomy and astrophysics
-institutes near their home location.
-This will help the students get a better understanding of the needs in the
-community and to get closer to the users and the field. 
+Because the OpenAstronomy projects are community-developed projects,
+we take special care to welcome all new people to our communities.
+This applies as much to GSoC students as any other new member.
+
+As many solar and astrophysicists are new to Python, we will invite the
+students to give tutorials about their contribution to astronomy and
+astrophysics institutes near their home location.
+This will help the students get a better understanding of the needs of the
+community and to get closer to the users and the field.
 This may provide the student a big push in their career, and open new doors in
 the astronomical research world.
-Over the years various students have been giving talks at astronomical
-institutes in Austria, England, Ireland and India.
+Furthermore, many of the students involved in past GSoCs with Sunpy and Astropy
+have gone on to be valuable long term contributors.
 
-To further encourage students, we will follow the example set by other GSoC
-projects (such as SymPy) and ask the students to spend a small fraction of their
-time reviewing others’ pull requests. 
-We will ask them to help review one pull request per week, which should be no
-more than a 5% time commitment.
+To further integrate students into their projects, we will ask the students to
+spend a small fraction of their time reviewing others’ pull requests. We will
+ask them to help review one pull request per week.
 
-## Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here.
 
-Astropy and SunPy have participated successfully in GSoC under the Python
-Software Foundation (PSF) umbrella in 2013 and 2014. 
-The PSF is vouching for OpenAstronomy for this year.
+[975/1000]
 
-## Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.
+## Has your org been accepted as a mentoring org in Google Summer of Code before?
 
 No
 
+## Are you part of a foundation/umbrella organization?
 
-## Is there anything else we should know or you'd like to tell us that doesn't fit anywhere else on the application?
+Yes
 
-No
+### which one?
+
+OpenAstronomy as a whole is not, but Astropy is a part of NumFOCUS.
+
+## What year was your project started?
+
+- [x] 2015
+
+## Anything else
+
+OpenAstronomy started in 2015 as an umbrella organization for GSoC and to
+coordinate other activities such as workshops and tutorials.
+
+The organizations under the umbrella were created at different times: the yt
+project in 2007, ChiantiPy in 2010, SunPy and Astropy in 2011 and finally Julia
+Astro in 2012.
+
+SunPy and Astropy have been participating on GSoC under the Python
+Software Foundation umbrella. David PS., Stuart M., Erik T. and Thomas R. have been
+sub-organizations admins since 2013.
+
+[495/500]
