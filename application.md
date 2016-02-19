@@ -69,7 +69,7 @@ milestones without specific allowable reasons, they will be warned of possible
 failure, in the hopes that this will put them more on track. 
 If this does not succeed, they will be failed.
 
-[959/1000]
+[933/1000]
 
 ## How will you get your students involved in your community during GSoC?
 
@@ -160,4 +160,7 @@ Software Foundation umbrella.
 David Perez-Suarez and Stuart Mumford for SunPy, and Erik Tollerud for Astropy,
 have helped organize the GSoC participation since 2013.
 
+
 [706/500]
+
+12 students Astropy + 8 sunpy
