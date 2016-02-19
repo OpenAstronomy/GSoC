@@ -17,15 +17,8 @@ diverse projects (not only Python-based) and accept students with experience
 with different languages, while uniting projects with the common goal of
 providing tools for the scientific exploration of the Universe.
 
-Both the SunPy and Astropy projects have participated in GSoC from 2013 to 2015
-under the Python Software Foundation umbrella organization, and the experience
 
-was highly successful (12 students completed their projects during these years,
-many of them with exceptional performance). We plan to replicate and
-share this experience with other projects as part of the OpenAstronomy
-organization.
-
-[1262/1000]
+[869/1000]
 
 ## How many potential mentors have agreed to mentor this year?
 
@@ -34,15 +27,24 @@ our ideas page).
 
 ## How will you keep mentors engaged with their students?
 
-In order to be selected as mentors, developers need to have made major code
+In order to be accepted as a mentor, developers need to have made major code
 contributions to their respective project, and be active contributors to date.
-These are therefore 'core' developers that understand the code base very well.
 They must also be in a position to dedicate enough time to properly mentor GSoC
 students.
-A number of the mentors have been GSoC mentors in all the editions since 2013.
-Each sub-organisation has weekly teleconferences to discuss their development,
-in these calls they will dedicate a time for the GSoC mentors and students to
-update the progress and problems encountered.
+Some of the potential mentors have been GSoC mentors since 2013. Therefore, they
+are deeply engaged with the sub-organisations.
+
+When the selected students are announced, each suborganisation will
+email to their respective forums and post in their blogs an introduction to the
+students, their projects and their mentors.
+Making visible to the community not just the work of the students (which they
+will able to follow through the required public blog posts) but who are the
+mentors behind thee projects.
+
+Mentors will monitor their students as they prefer but they will have dedicate
+time on each sub-organisation weekly teleconferences to discuss their
+development and update the progress and problems encountered.
+
 
 [661/1000]
 
