@@ -14,16 +14,14 @@ providing tools for the scientific exploration of the Universe.
 
 By participating in GSoC as an umbrella, we aim to improve the experience for
 both students and mentors alike, while reducing the administrative overhead.
-Last year was our first solo experience and it was a very successful one. We
-want to be the reference hub of open source astronomy and keep helping each
-other.
+We have successfully participated the last two years positioning us as the
+reference hub of open source astronomy.
 
-[997/1000]
+[994/1000]
 
 ## How many potential mentors have agreed to mentor this year?
 
-At the moment we have 28 potential mentors for this year’s program (listed on
-our ideas page).
+20+
 
 ## How will you keep mentors engaged with their students?
 
@@ -38,14 +36,14 @@ put in place by the organisation so they know they can reach their students at
 any time (It's expected that the students are connected during their working
 hours).
 
-Additionally, to reward the work of the mentors we are starting this year to
-issue openbadges.
+Additionally, to reward the work of the mentors we started last year to
+issue openbadges - http://openastronomy.org/badges/SoC/mentor/badge-image.png
 
-[690/1000]
+[750/1000]
 
 ## How will you help your students stay on schedule to complete their projects?
 
-The students are asked to write fortnight posts in a blog with their progress.
+The students are asked to write fortnight posts in a blog with their progress[1].
 Additionally, from the timeline in their application and with the help of the
 mentors a number of milestones will be set. All this information will be
 publicly available.
@@ -58,7 +56,9 @@ help before it’s too late.
 If after all the efforts the student doesn't show interest or disappears, the
 student will be failed.
 
-[612/1000]
+[1]  All the blogs are aggregated and shown at - http://openastronomy.org/Universe_OA/
+
+[705/1000]
 
 ## How will you get your students involved in your community during GSoC?
 
@@ -84,21 +84,20 @@ impact of their work.
 
 We aim to involve all new people with our communities as much as we can. GSoC
 students will be encouraged no less. We hope to convince them of the attractive
-and usability that our projects have for the long term. As many solar and
+and usability that our projects have for the long term. As many astronomers and
 astrophysicists are new to these tools and good programming practices, we will
 invite the students to give tutorials about their contribution to astronomy and
-astrophysics institutes near their home town. This will help the students to get
+astrophysics institutes and occasionally at international conferences. This will help the students to get
 a better understanding of the needs in the community and to get closer to the
-users and the field. This may provide the student a big push in their career,
-and open new doors in the astronomical research world. Over the years some of
-our summer students have given talks at astronomical institutes in Austria,
-England, Ireland and India.
+users and the field. This can also provide the student a big push in their career,
+and open new doors. Some of our students have found internships with NASA or STScI.
 
 To further encourage students, we ask the students to spend a small fraction of
-their time reviewing others’ pull requests - creating an habit that they may
+their time reviewing others’ pull requests - creating a habit that they may
 follow once GSoC ends.
+Several of our previous students became mentors themselves in later years.
 
-[990/1000]
+[993/1000]
 
 ## Has your org been accepted as a mentoring org in Google Summer of Code before?
 
@@ -106,10 +105,11 @@ Yes
 
 ### Which years did your org participate in GSoC?
 
-- 2016  - as OpenAstronomy
+- 2017, 2016  - as OpenAstronomy
 - 2013, 2014, 2015 - as sunpy/astropy under PSF
 
 ### For each year your organisation has participated, provide the counts of successful and total students (e.g. 2016: 3/4)
+- 2017: 8/9
 - 2016: 7/8
 
 ### If your org has applied for GSoC before but not been accepted, select the years:
@@ -127,13 +127,18 @@ Null
 
 - [x] 2015
 
+## Where does your source code live?
+
+http://openastronomy.org/members/
+
 ## Anything else we should know (optional)?
 
 OpenAstronomy started in 2015 as an umbrella organization for GSoC and to
-coordinate other activities as conferences and workshops. Some of the
+coordinate other activities as organizing conferences and workshops.
+Our members page provide links to all of them. Some of the
 organizations under the umbrella have been participating in GSoC since 2013
 under the Python Software Foundation. All these summers have been very
 successful to our projects, providing strong pushes to our development. The
 experience for students and mentors have been incredible - GSoC rocks!
 
-[436/500]
+[484/500]

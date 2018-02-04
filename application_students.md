@@ -14,26 +14,26 @@ create your own with enough time to get feedback before the deadline.
 ### Personal Information
 * **Time-zone:**
 * **Realtime chat handle@protocol:**
-* **Github/BitBucket id:**
+* **github id:**
 * **Blog:**
 * **RSS feed:**
 * **Link(s) to sample code as pull requests:**
 
 ### Education
-Tell us about your background
+*Tell us about your background*
 
 ### Interest in Open Astronomy
-Why do you want to work with us?
+*Why do you want to work with us?*
 
 ## Application
 
 ### Title
 
 ### Summary
-Explain why this project is attractive to you and why you think you can do it.
+*Explain why this project is attractive to you and why you think you can do it.*
 
 ### Description/timeline
-Break your project in blocks, what do you expect you will do each week?
+*Break your project in blocks, what do you expect you will do each week?*
 
 ### Schedule availability
-Tell us about your plans for holidays during the time of the programme.
+*Tell us about your plans for holidays during the time of the programme.*
